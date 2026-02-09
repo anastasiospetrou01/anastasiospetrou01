@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Anastasios! <h1>
+<h3>Mechanical Engineer<h3>
+<h2>Projects:</h2>
 
-<!--
-**anastasiospetrou01/anastasiospetrou01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>CFD</b>
 
-Here are some ideas to get you started:
+- <b>FEM</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Electronics</b>
+  
+
+
+
