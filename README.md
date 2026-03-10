@@ -3,7 +3,7 @@
 <h2>🔬 Research & Engineering Projects:</h2>
 
 ### <b>CFD</b>
-
+- [CFD Methodologies](https://github.com/anastasiospetrou01/CFD_Methodologies)
 ### <b>FEM</b>
   
 
